@@ -87,8 +87,8 @@ main h2:hover {
 
 footer{
     background-color: #474747;
-    height: 700px;
-    width: 1000px;
+    height: 452px;
+    width: 456px;
     padding: 5px;
     margin: auto;
     border-radius: 20px;
@@ -116,7 +116,7 @@ img {
 div.videos{
     margin: 0px, -20px 30px -20px;
     padding: 20px;
-    padding-bottom: 58%;
+    padding-bottom: 55%;
     position: relative;
 }
 
